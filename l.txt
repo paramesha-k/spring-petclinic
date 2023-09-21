@@ -1,0 +1,2 @@
+this is a line within feature2
+may this be second line
